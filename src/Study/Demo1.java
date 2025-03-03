@@ -10,7 +10,7 @@ public class Demo1 {
 	}
 	public Demo1() 
 	{
-		System.out.println("P-Constuctor");
+		System.out.println("P   Constuctor");
 	}
 public void normal() 
 {
